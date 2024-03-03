@@ -12,14 +12,14 @@ A car agency application featuring an intricate data structure. This project con
 
 # Getting Started
 
-## Loading Input Files
+- **Loading Input Files**
 
 To populate the system with initial data, run the project then load the data from the attached "input" files `cars.txt` and `orders.txt`.
 
-## Custom Cars and Brands
+- **Custom Cars and Brands**
 
 If you prefer not to use the provided input files, you can add custom cars and brands within the application as the admin.
 
-## Saving Changes
+- **Saving Changes**
 
 Remember to save any modifications back to the files by choosing the "Save to files" option to save changes to the `cars.txt` and `orders.txt` files.
