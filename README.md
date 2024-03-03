@@ -14,7 +14,7 @@ A car agency application featuring an intricate data structure. This project con
 
 - **Loading Input Files**
 
-To populate the system with initial data, run the project then load the data from the attached "input" files `cars.txt` and `orders.txt`.
+To populate the system with initial data, run the project then load the data from the attached input files `cars.txt` and `orders.txt`.
 
 - **Custom Cars and Brands**
 
