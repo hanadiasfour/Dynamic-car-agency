@@ -10,7 +10,7 @@ A car agency application featuring an intricate data structure. This project con
 - Provides a hands-on and efficient user experience with a graphical user interface (GUI) implemented using JavaFX.
 
 
-# Getting Started
+## Getting Started
 
 - **Loading Input Files**
 
