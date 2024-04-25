@@ -6,6 +6,6 @@ This car agency application features a system for customers to browse and place 
 **Main Features:**
 - Input/Output data using files.
 - Navigate brands, filter car options, and place orders.
-- Managing car inventory and processing customer orders.
+- Manage car inventory and process customer orders.
 - GUI was implemented using JavaFX.
 
