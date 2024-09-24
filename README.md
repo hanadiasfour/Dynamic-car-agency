@@ -19,11 +19,14 @@ This car agency application features a system for customers to browse and place 
 ### Filters:
 ![filters](https://github.com/user-attachments/assets/743a8333-da3d-41bb-a3ef-c2f261582a88)
 
-### Customer Information Input:
-![myinfo](https://github.com/user-attachments/assets/e2421a74-6da2-4f45-afdb-908df6094a22)
-
-### Orders Management (Admin):
+### Orders Management(Admin):
 ![manageOrders](https://github.com/user-attachments/assets/99f9fdaf-87b5-45ce-88a9-b67d2a1f1714)
+
+### Inventory Management(Admin):
+![editCars](https://github.com/user-attachments/assets/21c0f47d-c543-4a12-93f3-7585fa7b02e2)
+
+### Editing Car(Admin):
+![carEdit](https://github.com/user-attachments/assets/2b1eb85e-f0dc-4710-8e86-e959857e1655)
 
 ### Data Statistics:
 ![stat](https://github.com/user-attachments/assets/5c3cc5a2-93be-4bd9-b277-909080e4b07c)
